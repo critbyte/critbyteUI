@@ -8,7 +8,7 @@ critbyteUI helps reduce eyestrain if you are one to stay up late without the lig
 on, coding in a dungeon... However it makes it easier to visually see the code
 on the screen with the high contrast black with really saturated hues.
 
-critbytUI mimics the feel of most cmd lines and terminals. When alt-tabing or windowing
+critbyteUI mimics the feel of most cmd lines and terminals. When alt-tabing or windowing
 over to and frow from cmd to atom, do it with less of a sudden flash!
 
 critbyteUI is ment to be used with code minimap, which is a plugin for atom that 
